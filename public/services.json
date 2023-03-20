@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Replace Tire",
+    "price": 2000,
+    "time": 2,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus doloremque fugiat enim sunt modi magnam blanditiis, voluptas, obcaecati minus quaerat, laborum ad odio eveniet a voluptates fugit iusto reiciendis nemo",
+    "img": "https://i.ibb.co/GsF2F00/s1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Replace Tire",
+    "price": 2000,
+    "time": 2,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus doloremque fugiat enim sunt modi magnam blanditiis, voluptas, obcaecati minus quaerat, laborum ad odio eveniet a voluptates fugit iusto reiciendis nemo",
+    "img": "https://i.ibb.co/DDsKy9K/s2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Replace Tire",
+    "price": 2000,
+    "time": 2,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus doloremque fugiat enim sunt modi magnam blanditiis, voluptas, obcaecati minus quaerat, laborum ad odio eveniet a voluptates fugit iusto reiciendis nemo",
+    "img": "https://i.ibb.co/zVkCmXz/s3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Replace Tire",
+    "price": 2000,
+    "time": 2,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus doloremque fugiat enim sunt modi magnam blanditiis, voluptas, obcaecati minus quaerat, laborum ad odio eveniet a voluptates fugit iusto reiciendis nemo",
+    "img": "https://i.ibb.co/j5QtD9H/s4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Replace Tire",
+    "price": 2000,
+    "time": 2,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus doloremque fugiat enim sunt modi magnam blanditiis, voluptas, obcaecati minus quaerat, laborum ad odio eveniet a voluptates fugit iusto reiciendis nemo",
+    "img": "https://i.ibb.co/LgC7cNK/s5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Replace Tire",
+    "price": 2000,
+    "time": 2,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus doloremque fugiat enim sunt modi magnam blanditiis, voluptas, obcaecati minus quaerat, laborum ad odio eveniet a voluptates fugit iusto reiciendis nemo",
+    "img": "https://i.ibb.co/5c5xf6p/s6.jpg"
+  }
+]
